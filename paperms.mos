@@ -12,7 +12,7 @@
   *     author: S. Heipcke, Nov. 2008, rev. July 2010   *
   *******************************************************!)
 
-model Papermill
+model testpapermill
  uses "mmxprs"                         ! Uses the Xpress-MP Optimizer
 
  forward procedure column_gen
